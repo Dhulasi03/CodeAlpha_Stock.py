@@ -1,0 +1,24 @@
+Enter stock name (e.g., AAPL) TSLA
+PS CUsersAARTHIGOPALOneDriveDesktopCodeAlpha python stock.py
+Stock Portfolio Tracker
+Enter your stock holdings.
+Type 'done' when you are finished.
+
+Enter stock name (e.g., AAPL) AAPL
+Enter quantity of AAPL 5
+Added 5 shares of AAPL worth ₹900
+
+Enter stock name (e.g., AAPL) DRDO
+Stock not found in our database. Please try again.
+
+Enter stock name (e.g., AAPL) TSLA
+Enter quantity of TSLA 9
+Added 9 shares of TSLA worth ₹2250
+
+Enter stock name (e.g., AAPL) done
+
+Portfolio Summary
+AAPL ₹900
+TSLA ₹2250
+
+Total Investment ₹3150
